@@ -1,6 +1,8 @@
 # Stellaris-Click-Minigame-Bot
 Bot for the Stellaris click game, Version 1.0
 
+Download the bot from: https://sourceforge.net/projects/stellaris-click-game-bot/
+
 How to use the bot:
 
 (You need Firefox and .NET to run the bot!)
